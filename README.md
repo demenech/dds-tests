@@ -1,5 +1,15 @@
 # this is a test
 
+
+
+My analysis here
+
+<FlatUiTable url="https://raw.githubusercontent.com/datasets/oil-prices/main/data/wti-year.csv" />
+
+
+
+
+
 I can put my content around here and ***<u>format it</u>***
 
 <FlatUiTable url="https://raw.githubusercontent.com/datasets/oil-prices/main/data/wti-year.csv" />
