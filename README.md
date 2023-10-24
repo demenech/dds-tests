@@ -2,9 +2,17 @@
 
 Hey there. This is a demo for a very simple data-driven story editor.
 
+
+
+
+
+<FlatUiTable url="https://storage.openspending.org/alberta-budget/__os_imported__alberta_total.csv" />
+
+
+
 ## Formatting
 
-I can do  ***formatting here, as you can see.***
+I can do  ***<u>formatting</u> here, as you can see.***
 
 ## Storage
 
