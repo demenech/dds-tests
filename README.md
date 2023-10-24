@@ -2,7 +2,7 @@
 
 Hey there. This is a demo for a very simple data-driven story editor.
 
-
+This is my new content
 
 
 
